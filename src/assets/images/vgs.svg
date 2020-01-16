@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284pt" height="284pt" viewBox="0 0 284 284" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 0 0 L 283.921875 0 L 283.921875 283.921875 L 0 283.921875 Z M 0 0 "/>
+</clipPath>
+</defs>
+<filter id="dropshadow" height="130%">
+  <feGaussianBlur in="SourceAlpha" stdDeviation="3"/> <!-- stdDeviation is how much to blur -->
+  <feOffset dx="2" dy="2" result="offsetblur"/> <!-- how much to offset -->
+  <feComponentTransfer>
+    <feFuncA type="linear" slope="0.5"/> <!-- slope is the opacity of the shadow -->
+  </feComponentTransfer>
+  <feMerge> 
+    <feMergeNode/> <!-- this contains the offset blurred image -->
+    <feMergeNode in="SourceGraphic"/> <!-- this contains the element that the filter is applied to -->
+  </feMerge>
+</filter>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:0;" d="M 0 0 L 283.921875 0 L 283.921875 283.921875 L 0 283.921875 Z M 0 0 "/>
+</g>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0 L 283.5 0 L 283.5 283.5 L 0 283.5 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,58.824158%,0.784302%);fill-opacity:1;" d="M 229.765625 41.730469 C 278.378906 90.339844 278.378906 169.15625 229.765625 217.765625 C 220.433594 227.097656 191.09375 216.429688 141.75 185.753906 C 92.40625 216.429688 63.066406 227.097656 53.734375 217.765625 C 5.121094 169.15625 5.121094 90.339844 53.734375 41.730469 C 102.34375 -6.878906 181.15625 -6.878906 229.765625 41.730469 Z M 229.765625 41.730469 "/>
+<path style="fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:190500;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(238,238,238);stroke-opacity:1;stroke-miterlimit:8;" d="M -4.321748 1059556.215954 C -4.321748 474366.252108 474370.68611 -8.75575 1059560.649955 -8.75575 C 1368432.345894 26.323375 1677339.120959 44296.17917 1986210.816898 132870.969886 C 2074785.607613 441742.665825 2119055.463408 750649.440889 2119090.542533 1059521.136829 C 2119090.542533 1644711.100674 1644715.534675 2119086.108532 1059525.57083 2119086.108532 C 474405.765235 2119086.108532 30.757377 1644711.100674 -4.321748 1059556.215954 Z M -4.321748 1059556.215954 " transform="matrix(-0.0000556777,0.0000556777,-0.0000556777,-0.0000556777,259.7356,129.7478)"/>
+</g>
+</svg>

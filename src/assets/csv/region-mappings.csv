@@ -1,0 +1,595 @@
+id,name,year,unemployment_rate
+15745,"Papum Pare",2019,1
+15746,"Tawang",2019,2
+15747,"Tirap",2019,9
+15748,"Upper Dibang Valley",2019,5
+15749,"Upper Siang",2019,5
+15750,"Upper Subansiri",2019,9
+15751,"West Kameng",2019,7
+15752,"West Siang",2019,1
+15753,"Barpeta",2019,2
+15754,"Bongaigaon",2019,10
+15755,"Cachar",2019,2
+15756,"Darrang",2019,9
+15757,"Dhemaji",2019,4
+15758,"Dhuburi",2019,8
+15759,"Dibrugarh",2019,1
+15760,"Goalpara",2019,6
+15761,"Golaghat",2019,10
+15762,"Hailakandi",2019,4
+15763,"Jorhat",2019,5
+15764,"Kamrup",2019,10
+15765,"Karbi Anglong",2019,8
+15766,"Karimganj",2019,6
+15767,"Kokrajhar",2019,4
+15768,"Lakhimpur",2019,3
+15769,"Marigaon",2019,10
+15770,"Nagaon",2019,5
+15771,"Nalbari",2019,10
+15772,"North Cachar Hills",2019,4
+15773,"Sibsagar",2019,5
+15774,"Sonitpur",2019,3
+15775,"Tinsukia",2019,5
+15776,"Araria",2019,5
+15777,"Aurangabad",2019,9
+15778,"Banka",2019,8
+15779,"Begusarai",2019,3
+15780,"Bhabua",2019,5
+15781,"Bhagalpur",2019,3
+15782,"Bhojpur",2019,5
+15783,"Buxar",2019,1
+15784,"Darbhanga",2019,6
+15785,"Gaya",2019,4
+15786,"Gopalganj",2019,8
+15787,"Jamui",2019,3
+15788,"Jehanabad",2019,1
+15789,"Katihar",2019,9
+15790,"Khagaria",2019,2
+15791,"Kishanganj",2019,2
+15792,"Lakhisarai",2019,10
+15793,"Madhepura",2019,6
+15794,"Madhubani",2019,8
+15795,"Munger",2019,2
+15796,"Muzaffarpur",2019,9
+15797,"Nalanda",2019,9
+15798,"Nawada",2019,8
+15799,"Pashchim Champaran",2019,2
+15800,"Patna",2019,6
+15801,"Purba Champaran",2019,8
+15802,"Purnia",2019,5
+15803,"Rohtas",2019,8
+15804,"Saharsa",2019,4
+15805,"Samastipur",2019,5
+15806,"Saran",2019,10
+15807,"Sheikhpura",2019,1
+15808,"Sheohar",2019,10
+16013,"Tikamgarh",2019,10
+16014,"Ujjain",2019,10
+16015,"Umaria",2019,9
+16016,"Vidisha",2019,3
+16017,"West Nimar",2019,10
+16018,"Ahmednagar",2019,5
+16019,"Akola",2019,10
+16020,"Amravati",2019,4
+16021,"Aurangabad",2019,7
+16022,"Bhandara",2019,9
+16023,"Bid",2019,6
+16024,"Buldana",2019,5
+16025,"Chandrapur",2019,6
+16026,"Dhule",2019,9
+16027,"Garhchiroli",2019,7
+16028,"Gondiya",2019,3
+16029,"Greater Bombay",2019,6
+16030,"Hingoli",2019,9
+16031,"Jalgaon",2019,5
+16032,"Jalna",2019,8
+16033,"Kolhapur",2019,7
+16034,"Latur",2019,3
+16035,"Nagpur",2019,3
+16036,"Nanded",2019,7
+16037,"Nandurbar",2019,2
+16038,"Nashik",2019,9
+16039,"Osmanabad",2019,7
+16040,"Parbhani",2019,7
+15972,"Balaghat",2019,7
+15973,"Barwani",2019,6
+15974,"Betul",2019,3
+15975,"Bhind",2019,2
+15976,"Bhopal",2019,8
+15977,"Burhanpur",2019,2
+15978,"Chhatarpur",2019,3
+15979,"Chhindwara",2019,4
+15980,"Damoh",2019,2
+16157,"Karauli",2019,6
+16158,"Kota",2019,9
+16159,"Nagaur",2019,6
+16160,"Pali",2019,7
+16161,"Rajsamand",2019,1
+16162,"Sawai Madhopur",2019,9
+16163,"Sikar",2019,8
+16164,"Sirohi",2019,7
+16181,"Madurai",2019,6
+16182,"Nagapattinam",2019,8
+16183,"Namakkal",2019,4
+16184,"Nilgiris",2019,2
+16185,"Perambalur",2019,2
+16186,"Pudukkottai",2019,7
+16187,"Ramanathapuram",2019,4
+16188,"Salem",2019,6
+15713,"Andaman Islands",2019,6
+15714,"Nicobar Islands",2019,3
+15715,"Adilabad",2019,2
+15716,"Anantapur",2019,1
+15717,"Chittoor",2019,2
+15718,"Cuddapah",2019,8
+15719,"East Godavari",2019,4
+15720,"Guntur",2019,10
+15721,"Hyderabad",2019,3
+15722,"Karimnagar",2019,10
+15723,"Khammam",2019,10
+15724,"Krishna",2019,4
+15725,"Kurnool",2019,10
+15726,"Mahbubnagar",2019,6
+15727,"Medak",2019,2
+15728,"Nalgonda",2019,9
+15729,"Nellore",2019,5
+15730,"Nizamabad",2019,7
+15731,"Prakasam",2019,8
+15732,"Rangareddi",2019,9
+15733,"Srikakulam",2019,9
+15734,"Vishakhapatnam",2019,4
+15735,"Vizianagaram",2019,2
+15736,"Warangal",2019,10
+15737,"West Godavari",2019,6
+15738,"Changlang",2019,4
+15739,"East Kameng",2019,2
+15740,"East Siang",2019,9
+15741,"Kurung Kumey",2019,6
+15742,"Lohit",2019,9
+15743,"Lower Dibang Valley",2019,2
+15744,"Lower Subansiri",2019,6
+15809,"Sitamarhi",2019,3
+15810,"Siwan",2019,7
+15811,"Supaul",2019,10
+15812,"Vaishali",2019,9
+15813,"Chandigarh",2019,8
+15814,"Bastar",2019,8
+15815,"Bilaspur",2019,10
+15816,"Dantewada",2019,9
+15817,"Dhamtari",2019,4
+15818,"Durg",2019,4
+15819,"Janjgir-Champa",2019,4
+15820,"Jashpur",2019,8
+15821,"Kanker",2019,2
+15822,"Kawardha",2019,9
+15823,"Korba",2019,6
+15824,"Koriya",2019,6
+15825,"Mahasamund",2019,3
+15826,"Raigarh",2019,6
+15827,"Raipur",2019,9
+15828,"Raj Nandgaon",2019,10
+15829,"Surguja",2019,10
+15830,"Dadra and Nagar Haveli",2019,10
+15831,"Daman",2019,5
+15832,"Junagadh",2019,6
+15833,"Delhi",2019,10
+15834,"North Goa",2019,6
+15835,"South Goa",2019,5
+15836,"Ahmadabad",2019,3
+15837,"Amreli",2019,5
+15838,"Anand",2019,2
+15839,"Banas Kantha",2019,9
+15840,"Bharuch",2019,7
+15841,"Bhavnagar",2019,6
+15842,"Dahod",2019,10
+15843,"Gandhinagar",2019,6
+15844,"Jamnagar",2019,8
+15845,"Junagadh",2019,7
+15846,"Kachchh",2019,3
+15847,"Kheda",2019,1
+15848,"Mahesana",2019,3
+15849,"Narmada",2019,8
+15850,"Navsari",2019,7
+15851,"Panch Mahals",2019,5
+15852,"Patan",2019,8
+15853,"Porbandar",2019,7
+15854,"Rajkot",2019,6
+15855,"Sabar Kantha",2019,6
+15856,"Surat",2019,8
+15857,"Surendranagar",2019,4
+15858,"The Dangs",2019,4
+15859,"Vadodara",2019,10
+15860,"Valsad",2019,5
+15861,"Ambala",2019,5
+15862,"Bhiwani",2019,1
+15863,"Faridabad",2019,3
+15864,"Fatehabad",2019,1
+15865,"Gurgaon",2019,3
+15866,"Hisar",2019,7
+15867,"Jhajjar",2019,4
+15868,"Jind",2019,7
+15869,"Kaithal",2019,3
+15870,"Karnal",2019,9
+15871,"Kurukshetra",2019,7
+15872,"Mahendragarh",2019,7
+15873,"Panchkula",2019,4
+15874,"Panipat",2019,7
+15875,"Rewari",2019,2
+15876,"Rohtak",2019,6
+15877,"Sirsa",2019,6
+15878,"Sonepat",2019,6
+15879,"Yamuna Nagar",2019,10
+15880,"Bilaspur",2019,7
+15881,"Chamba",2019,3
+15882,"Hamirpur",2019,6
+15883,"Kangra",2019,6
+15884,"Kinnaur",2019,3
+15885,"Kullu",2019,10
+15886,"Lahul and Spiti",2019,9
+15887,"Mandi",2019,9
+15888,"Shimla",2019,6
+15889,"Sirmaur",2019,3
+15890,"Solan",2019,1
+15891,"Una",2019,9
+15892,"Anantnag (Kashmir South)",2019,3
+15893,"Bagdam",2019,8
+15894,"Baramula (Kashmir North)",2019,5
+15895,"Doda",2019,2
+15896,"Jammu",2019,10
+15897,"Kargil",2019,9
+15898,"Kathua",2019,2
+15899,"Kupwara (Muzaffarabad)",2019,10
+15900,"Ladakh (Leh)",2019,2
+15901,"Pulwama",2019,6
+15902,"Punch",2019,4
+15903,"Rajauri",2019,7
+15904,"Srinagar",2019,3
+15905,"Udhampur",2019,5
+15906,"Bokaro",2019,4
+15907,"Chatra",2019,7
+15908,"Deoghar",2019,4
+15909,"Dhanbad",2019,2
+15910,"Dumka",2019,1
+15911,"Garhwa",2019,1
+15912,"Giridih",2019,1
+15913,"Godda",2019,5
+15914,"Gumla",2019,3
+15915,"Hazaribag",2019,5
+15916,"Jamtara",2019,8
+15917,"Koderma",2019,4
+15918,"Latehar",2019,10
+15919,"Lohardaga",2019,3
+15920,"Pakur",2019,1
+15921,"Palamu",2019,8
+15922,"Pashchim Singhbhum",2019,7
+15923,"Purba Singhbhum",2019,2
+15924,"Ranchi",2019,3
+15925,"Sahibganj",2019,5
+15926,"Saraikela Kharsawan",2019,9
+15927,"Simdega",2019,1
+15928,"Bagalkot",2019,5
+15929,"Bangalore Rural",2019,5
+15930,"Bangalore Urban",2019,7
+15931,"Belgaum",2019,7
+15932,"Bellary",2019,10
+15933,"Bidar",2019,5
+15934,"Bijapur",2019,1
+15935,"Chamrajnagar",2019,5
+15936,"Chikmagalur",2019,2
+15937,"Chitradurga",2019,6
+15938,"Dakshin Kannad",2019,10
+15939,"Davanagere",2019,9
+15940,"Dharwad",2019,6
+15941,"Gadag",2019,2
+15942,"Gulbarga",2019,4
+15943,"Hassan",2019,4
+15944,"Haveri",2019,1
+15945,"Kodagu",2019,2
+15946,"Kolar",2019,9
+15947,"Koppal",2019,2
+15948,"Mandya",2019,8
+15949,"Mysore",2019,1
+15950,"Raichur",2019,7
+15951,"Shimoga",2019,6
+15952,"Tumkur",2019,6
+15953,"Udupi",2019,4
+15954,"Uttar Kannand",2019,5
+15955,"Alappuzha",2019,4
+15956,"Ernakulam",2019,7
+15957,"Idukki",2019,6
+15958,"Kannur",2019,1
+15959,"Kasaragod",2019,6
+15960,"Kollam",2019,10
+15961,"Kottayam",2019,5
+15962,"Kozhikode",2019,2
+15963,"Malappuram",2019,10
+15964,"Palakkad",2019,2
+15965,"Pattanamtitta",2019,4
+15966,"Thiruvananthapuram",2019,2
+15967,"Thrissur",2019,8
+15968,"Wayanad",2019,6
+15969,"Kavaratti",2019,9
+15970,"Anuppur",2019,5
+15971,"Ashoknagar",2019,9
+15981,"Datia",2019,8
+15982,"Dewas",2019,4
+15983,"Dhar",2019,10
+15984,"Dindori",2019,5
+15985,"East Nimar",2019,2
+15986,"Guna",2019,4
+15987,"Gwalior",2019,7
+15988,"Harda",2019,7
+15989,"Hoshangabad",2019,1
+15990,"Indore",2019,7
+15991,"Jabalpur",2019,7
+15992,"Jhabua",2019,9
+15993,"Katni",2019,5
+15994,"Mandla",2019,2
+15995,"Mandsaur",2019,6
+15996,"Morena",2019,2
+15997,"Narsinghpur",2019,2
+15998,"Neemuch",2019,9
+15999,"Panna",2019,7
+16000,"Raisen",2019,8
+16001,"Rajgarh",2019,7
+16002,"Ratlam",2019,1
+16003,"Rewa",2019,1
+16004,"Sagar",2019,7
+16005,"Satna",2019,9
+16006,"Sehore",2019,7
+16007,"Seoni",2019,1
+16008,"Shahdol",2019,4
+16009,"Shajapur",2019,8
+16010,"Sheopur",2019,5
+16011,"Shivpuri",2019,7
+16012,"Sidhi",2019,9
+16041,"Pune",2019,7
+16042,"Raigarh",2019,10
+16043,"Ratnagiri",2019,10
+16044,"Sangli",2019,4
+16045,"Satara",2019,4
+16046,"Sindhudurg",2019,7
+16047,"Solapur",2019,5
+16048,"Thane",2019,10
+16049,"Wardha",2019,9
+16050,"Washim",2019,3
+16051,"Yavatmal",2019,7
+16052,"Bishnupur",2019,9
+16053,"Chandel",2019,10
+16054,"Churachandpur",2019,8
+16055,"East Imphal",2019,1
+16056,"Senapati",2019,7
+16057,"Tamenglong",2019,4
+16058,"Thoubal",2019,6
+16059,"Ukhrul",2019,5
+16060,"West Imphal",2019,10
+16061,"East Garo Hills",2019,10
+16062,"East Khasi Hills",2019,6
+16063,"Jaintia Hills",2019,1
+16064,"Ri-Bhoi",2019,10
+16065,"South Garo Hills",2019,1
+16066,"West Garo Hills",2019,3
+16067,"West Khasi Hills",2019,2
+16068,"Aizawl",2019,10
+16069,"Champhai",2019,4
+16070,"Kolasib",2019,3
+16071,"Lawngtlai",2019,10
+16072,"Lunglei",2019,1
+16073,"Mamit",2019,4
+16074,"Saiha",2019,10
+16075,"Serchhip",2019,2
+16076,"Dimapur",2019,4
+16077,"Kohima",2019,9
+16078,"Mokokchung",2019,6
+16079,"Mon",2019,2
+16080,"Phek",2019,8
+16081,"Tuensang",2019,6
+16082,"Wokha",2019,3
+16083,"Zunheboto",2019,3
+16084,"Angul",2019,6
+16085,"Baleshwar",2019,7
+16086,"Baragarh",2019,6
+16087,"Bhadrak",2019,6
+16088,"Bolangir",2019,5
+16089,"Boudh",2019,1
+16090,"Cuttack",2019,3
+16091,"Deogarh",2019,9
+16092,"Dhenkanal",2019,1
+16093,"Gajapati",2019,9
+16094,"Ganjam",2019,3
+16095,"Jagatsinghpur",2019,5
+16096,"Jajpur",2019,7
+16097,"Jharsuguda",2019,10
+16098,"Kalahandi",2019,4
+16099,"Kandhamal",2019,2
+16100,"Kendrapara",2019,9
+16101,"Keonjhar",2019,6
+16102,"Khordha",2019,8
+16103,"Koraput",2019,5
+16104,"Malkangiri",2019,6
+16105,"Mayurbhanj",2019,4
+16106,"Nabarangpur",2019,1
+16107,"Nayagarh",2019,10
+16108,"Nuapada",2019,3
+16109,"Puri",2019,9
+16110,"Rayagada",2019,4
+16111,"Sambalpur",2019,9
+16112,"Sonepur",2019,3
+16113,"Sundargarh",2019,10
+16114,"Karaikal",2019,9
+16115,"Mahe",2019,9
+16116,"Puducherry",2019,7
+16117,"Yanam",2019,10
+16118,"Amritsar",2019,7
+16119,"Bathinda",2019,9
+16120,"Faridkot",2019,6
+16121,"Fatehgarh Sahib",2019,5
+16122,"Firozpur",2019,10
+16123,"Gurdaspur",2019,6
+16124,"Hoshiarpur",2019,3
+16125,"Jalandhar",2019,3
+16126,"Kapurthala",2019,5
+16127,"Ludhiana",2019,6
+16128,"Mansa",2019,10
+16129,"Moga",2019,1
+16130,"Muktsar",2019,9
+16131,"Nawan Shehar",2019,4
+16132,"Patiala",2019,2
+16133,"Rupnagar",2019,10
+16134,"Sangrur",2019,9
+16135,"Ajmer",2019,7
+16136,"Alwar",2019,5
+16137,"Banswara",2019,10
+16138,"Baran",2019,2
+16139,"Barmer",2019,4
+16140,"Bharatpur",2019,6
+16141,"Bhilwara",2019,9
+16142,"Bikaner",2019,8
+16143,"Bundi",2019,6
+16144,"Chittaurgarh",2019,2
+16145,"Churu",2019,3
+16146,"Dausa",2019,10
+16147,"Dhaulpur",2019,1
+16148,"Dungarpur",2019,1
+16149,"Ganganagar",2019,4
+16150,"Hanumangarh",2019,8
+16151,"Jaipur",2019,6
+16152,"Jaisalmer",2019,4
+16153,"Jalor",2019,9
+16154,"Jhalawar",2019,8
+16155,"Jhunjhunun",2019,5
+16156,"Jodhpur",2019,9
+16165,"Tonk",2019,5
+16166,"Udaipur",2019,3
+16167,"East",2019,3
+16168,"North Sikkim",2019,4
+16169,"South Sikkim",2019,3
+16170,"West Sikkim",2019,5
+16171,"Ariyalur",2019,7
+16172,"Chennai",2019,8
+16173,"Coimbatore",2019,6
+16174,"Cuddalore",2019,3
+16175,"Dharmapuri",2019,2
+16176,"Dindigul",2019,8
+16177,"Erode",2019,9
+16178,"Kancheepuram",2019,9
+16179,"Kanniyakumari",2019,7
+16180,"Karur",2019,1
+16189,"Sivaganga",2019,8
+16190,"Thanjavur",2019,3
+16191,"Theni",2019,1
+16192,"Thiruvallur",2019,6
+16193,"Thiruvarur",2019,7
+16194,"Thoothukudi",2019,1
+16195,"Tiruchchirappalli",2019,9
+16196,"Tirunelveli Kattabo",2019,4
+16197,"Tiruvannamalai",2019,7
+16198,"Vellore",2019,6
+16199,"Villupuram",2019,5
+16200,"Virudhunagar",2019,8
+16201,"Dhalai",2019,7
+16202,"North Tripura",2019,10
+16203,"South Tripura",2019,4
+16204,"West Tripura",2019,6
+16205,"Agra",2019,2
+16206,"Aligarh",2019,7
+16207,"Allahabad",2019,10
+16208,"Ambedkar Nagar",2019,8
+16209,"Auraiya",2019,6
+16210,"Azamgarh",2019,2
+16211,"Badaun",2019,2
+16212,"Baghpat",2019,3
+16213,"Bahraich",2019,6
+16214,"Ballia",2019,1
+16215,"Balrampur",2019,8
+16216,"Banda",2019,5
+16217,"Bara Banki",2019,6
+16218,"Bareilly",2019,2
+16219,"Basti",2019,7
+16220,"Bijnor",2019,3
+16221,"Bulandshahr",2019,10
+16222,"Chandauli",2019,10
+16223,"Chitrakoot",2019,10
+16224,"Deoria",2019,5
+16225,"Etah",2019,10
+16226,"Etawah",2019,9
+16227,"Faizabad",2019,8
+16228,"Farrukhabad",2019,8
+16229,"Fatehpur",2019,3
+16230,"Firozabad",2019,3
+16231,"Gautam Buddha Nagar",2019,8
+16232,"Ghaziabad",2019,5
+16233,"Ghazipur",2019,9
+16234,"Gonda",2019,5
+16235,"Gorakhpur",2019,6
+16236,"Hamirpur",2019,5
+16237,"Hardoi",2019,9
+16238,"Hathras",2019,1
+16239,"Jalaun",2019,10
+16240,"Jaunpur",2019,2
+16241,"Jhansi",2019,9
+16242,"Jyotiba Phule Nagar",2019,4
+16243,"Kannauj",2019,10
+16244,"Kanpur",2019,1
+16245,"Kanpur Dehat",2019,7
+16246,"Kaushambi",2019,8
+16247,"Kushinagar",2019,5
+16248,"Lakhimpur Kheri",2019,2
+16249,"Lalitpur",2019,1
+16250,"Lucknow",2019,5
+16251,"Maharajganj",2019,5
+16252,"Mahoba",2019,9
+16253,"Mainpuri",2019,4
+16254,"Mathura",2019,4
+16255,"Mau",2019,7
+16256,"Meerut",2019,1
+16257,"Mirzapur",2019,1
+16258,"Moradabad",2019,4
+16259,"Muzaffarnagar",2019,7
+16260,"Pilibhit",2019,1
+16261,"Pratapgarh",2019,1
+16262,"Rae Bareli",2019,8
+16263,"Rampur",2019,1
+16264,"Saharanpur",2019,10
+16265,"Sant Kabir Nagar",2019,3
+16266,"Sant Ravi Das Nagar",2019,3
+16267,"Shahjahanpur",2019,6
+16268,"Shravasti",2019,6
+16269,"Siddharth Nagar",2019,8
+16270,"Sitapur",2019,5
+16271,"Sonbhadra",2019,6
+16272,"Sultanpur",2019,7
+16273,"Unnao",2019,2
+16274,"Varanasi",2019,3
+16275,"Almora",2019,6
+16276,"Bageshwar",2019,3
+16277,"Chamoli",2019,6
+16278,"Champawat",2019,9
+16279,"Dehra Dun",2019,10
+16280,"Haridwar",2019,3
+16281,"Naini Tal",2019,9
+16282,"Pauri Garhwal",2019,9
+16283,"Pithoragarh",2019,6
+16284,"Rudra Prayag",2019,9
+16285,"Tehri Garhwal",2019,4
+16286,"Udham Singh Nagar",2019,2
+16287,"Uttarkashi",2019,10
+16288,"Bankura",2019,4
+16289,"Barddhaman",2019,6
+16290,"Birbhum",2019,10
+16291,"Dakshin Dinajpur",2019,1
+16292,"Darjiling",2019,9
+16293,"East Midnapore",2019,7
+16294,"Haora",2019,5
+16295,"Hugli",2019,1
+16296,"Jalpaiguri",2019,10
+16297,"Kochbihar",2019,9
+16298,"Kolkata",2019,6
+16299,"Maldah",2019,2
+16300,"Murshidabad",2019,5
+16301,"Nadia",2019,2
+16302,"North 24 Parganas",2019,10
+16303,"Puruliya",2019,6
+16304,"South 24 Parganas",2019,9
+16305,"Uttar Dinajpur",2019,10
+16306,"West Midnapore",2019,10

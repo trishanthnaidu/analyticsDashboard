@@ -1,0 +1,1 @@
+export { PrismNXT } from './App';
